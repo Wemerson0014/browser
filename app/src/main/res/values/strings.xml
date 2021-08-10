@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">browser</string>
+    <string name="app_name">WB Browser</string>
 
     <!-- activity_main -->
     <string name="image_back_description">A button to go to the next site visited</string>

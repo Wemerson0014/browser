@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WB Browser</string>
+
+    <!-- activity_main -->
+    <string name="image_back_description">Um botão para ir para o próximo site visitado</string>
+    <string name="image_forward_description">Um botão para voltar ao site anteriormente visitado</string>
+</resources>
