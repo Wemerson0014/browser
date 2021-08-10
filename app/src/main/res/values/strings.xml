@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">browser</string>
+
+    <!-- activity_main -->
+    <string name="image_back_description">A button to go to the next site visited</string>
+    <string name="image_forward_description">A button to return to previously visited website</string>
 </resources>
